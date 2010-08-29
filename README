@@ -1,0 +1,24 @@
+This is yet another Tetris game implemented in Java.
+
+Based on Pentris, an abandoned Uni project by Enno Ruijters, Milan Santosi, Burkhard von der 
+Osten, Leroy Kerkhofs.
+Currently maintained by Milan Santosi
+
+Current features:
+=================
+Human solitaire
+CPU solitaire
+Human vs Human 
+Human vs CPU
+CPU vs CPU
+Network play
+Splitscreen
+Sound
+Fun with rotation
+Load/Save Game
+Basic Hi-Score list
+Three board sizes
+Four different set of puzzle pieces available.
+
+
+Published under the GPLv2: http://www.gnu.org/licenses/gpl-2.0.html
