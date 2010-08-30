@@ -27,6 +27,8 @@ import javax.swing.WindowConstants;
 
 /**
  * Pentris starts
+ * @author <a href="mailto:milan.santosi@gmail.com"></a>
+ * @version 1.0
  */
 public class Main{
     private static Game game;
@@ -103,6 +105,10 @@ public class Main{
      * multiplayer game if the user clicks OK.
      */
     @SuppressWarnings("nls")
+    /**
+     * Describe <code>startMultiNet</code> method here.
+     *
+     */
     public static void startMultiNet() {
         final JFrame frame=new JFrame();
         final JPanel panel=new JPanel();

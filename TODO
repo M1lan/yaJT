@@ -1,0 +1,17 @@
+#-*- mode: org-mode; -*-
+TODO list
+* User interface 
+- Pre-game settings (boar-size, difficulty, pieces, allow pause in
+  network, ...)
+- In-game settings (music, binds, cpu/human toggle, ...)  => No more
+  messing around in-game!
+- Put splitscreen two player in one pane
+- Fix menu and sound
+- Add some generic binds (q = quit, etc)
+- Secret debug/cheat commandline
+* Bugs
+- Very long games crash without reason
+- Holding a button is not very responsive
+- Start pieces not adjusted to settings, may be from wrong set
+- CPU / Human toggle unpauses game and destroyes boardsize setting
+- Problems with pause toggle, also the bind "P" sometimes doesn't work
