@@ -1,6 +1,11 @@
 # do not upload java class files!
 *.class
 
+# do not upload whatever emacs thinks these are for
+/#.*
+/#*
+
+
 ## generic files to ignore
 *~
 *.lock
