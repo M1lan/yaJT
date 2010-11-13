@@ -1,4 +1,4 @@
-#-*- mode: org-mode; -*-
+#-*- mode: org-mode -*-
 TODO list
 * User interface 
 - Pre-game settings (boar-size, difficulty, pieces, allow pause in
@@ -15,3 +15,9 @@ TODO list
 - Start pieces not adjusted to settings, may be from wrong set
 - CPU / Human toggle unpauses game and destroyes boardsize setting
 - Problems with pause toggle, also the bind "P" sometimes doesn't work
+
+* Plan
+- game is running?
+  - grey out options
+- initial start
+  - change pause to start (logic)
