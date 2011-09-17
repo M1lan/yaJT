@@ -19,5 +19,6 @@ TODO list
 * Plan
 - game is running?
   - grey out options
+  - prevent cheating
 - initial start
   - change pause to start (logic)

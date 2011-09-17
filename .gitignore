@@ -13,3 +13,7 @@
 *.swp
 *.out
 
+/tetrisa.mid
+/tetrisb.mid
+/tetrisc.mid
+/scores.txt
